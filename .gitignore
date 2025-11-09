@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# API Keys (IMPORTANT - never commit these!)
+.env
+config.py
+api_key.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MD files
+LEARNING_ROADMAP.md
+CONCEPTS_EXPLAINED.md
+STEP_BY_STEP_GUIDE.md
+TROUBLESHOOTING.md
+WEATHERAPI_REFERENCE.md
+

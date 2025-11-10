@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-My first Python project - a simple weather application!
+My first Python project - a simple weather application
 
 ## The function of this project:
 Fetching and displaying current weather information for any given city using the WeatherAPI.
@@ -40,11 +40,12 @@ Fetching and displaying current weather information for any given city using the
 
 ## What I learned
 - Working with APIs
-- Making HTTP requests with the 'requests library'
+- Making HTTP requests with the 'requests' library
 - Parsing JSON data obtained from an HTTP request
 - Handling user input
 - Error handling
 - Utilization of type hints in Python
 - How a leaked API key can lead to some really severe security flaws in a program
 - Using the 'os' and 'python-dotenv' libary and environment variables for maintaining security (mainly for the API key)
+
 
